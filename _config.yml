@@ -17,32 +17,32 @@
 # https://github.com/mmistakes/minimal-mistakes-algolia-search/blob/master/_config.yml
 
 # Configurations
-title: Michel Metran
-masthead_title: "Michel Metran"
-subtitle: "<i>DevOps</i>, <i>data science</i> e <i>data engineer</i>" # Opcional
+title: ImpleRent
+masthead_title: "ImpleRent"
+subtitle: "<i>Auxiliando a vida do produtor rural</i>" # Opcional
 # title_separator: "|" # Opcional
 
-name: "Michel Metran"
-email: michelmetran@gmail.com
+name: "Samile Seber"
+email: sseber@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-repository: "michelmetran/michelmetran.github.io"
-logo: "/assets/images/logo/logo.png"
-url: "https://michelmetran.com.br"
+repository: "ImpleRent/ImpleRent.github.io"
+logo: "/assets/images/logo/logos/WhatsApp Image 2024-03-18 at 21.34.49 (1).jpeg"
+#url: "https://mm.com.br"
 
 # disabled by default
-breadcrumbs: true
+breadcrumbs: false
 
 # Social Sharing
-twitter_username: michelmetran
-github_username: michelmetran
+twitter_username: ImpleRent
+github_username: ImpleRent
 facebook:
-  username: michelmetran
+  username: ImpleRent
 
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#skin
-minimal_mistakes_skin: air # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: sunrise # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 layout: splash
 
 # Search
@@ -54,6 +54,7 @@ algolia:
   search_only_api_key: "66be9231011a4a559c96383fd6563e6e"
   powered_by: true
   # files_to_exclude:
+
 google:
   search_engine_id: d4e7b7ef17cde45fa
 
@@ -127,13 +128,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/michelmetran"
+      url: "https://twitter.com/ImpleRent"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/michelmetran"
+      url: "https://github.com/ImpleRent"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/michelmetran"
+      url: "https://instagram.com/ImpleRent"
 
 # Collections
 collections_dir: collections

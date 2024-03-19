@@ -1,62 +1,62 @@
 main:
-  - title: "Sobre"
-    description: "Sobre"
+  - title: "Quem Somos?"
+    description: "Quem Somos"
     url: /sobre/
 
-  - title: "<i>Trips</i>"
+  - title: "O que Fazemos?"
     description: "Trips"
     url: /trips/
 
-  - title: "Portfolio"
+  - title: "Nossos Clientes"
     description: "Portfolio"
     url: /portfolio/
 
-  - title: "Projetos"
+  - title: "Alugue"
     description: "Projetos"
     url: /projetos/
     # TODO: Não funciona!
-    children:
-      - title: "Child Link 1"
-        url: /child-1-page-url/
-      - title: "Child Link 2"
-        url: /child-2-page-url/
+    # children:
+    #   - title: "Child Link 1"
+    #     url: /child-1-page-url/
+    #   - title: "Child Link 2"
+    #     url: /child-2-page-url/
 
-  - title: "<i>Posts</i>"
-    url: /posts/
+  # - title: "<i>Posts</i>"
+  #   url: /posts/
 
-# Posts Navigation
-posts_nav:
-  - title: "<i>Posts</i>"
-    #url: /parent-1-page-url/
-    children:
-      - title: "por <i>grid</i>"
-        url: /posts/
-      - title: "por Categoria"
-        url: /posts/categories/
-      - title: "por <i>tags</i>"
-        url: /posts/tags/
-      - title: "por ano"
-        url: /posts/year/
-      - title: "por lista"
-        url: /posts/tags/array/
+# # Posts Navigation
+# posts_nav:
+#   - title: "<i>Posts</i>"
+#     #url: /parent-1-page-url/
+#     children:
+#       - title: "por <i>grid</i>"
+#         url: /posts/
+#       - title: "por Categoria"
+#         url: /posts/categories/
+#       - title: "por <i>tags</i>"
+#         url: /posts/tags/
+#       - title: "por ano"
+#         url: /posts/year/
+#       - title: "por lista"
+#         url: /posts/tags/array/
 
-  - title: "com Categoria"
-    url: /posts/categories/
-    children:
-      - title: "Open Geodata"
-        url: /posts/category/open-geodata/
+#   - title: "com Categoria"
+#     url: /posts/categories/
+#     children:
+#       - title: "Open Geodata"
+#         url: /posts/category/open-geodata/
 
-      - title: "Divisões Administrativas"
-        url: /posts/category/div-admin/
+#       - title: "Divisões Administrativas"
+#         url: /posts/category/div-admin/
 
-      - title: "GAEMA"
-        url: /posts/category/gaema/
+#       - title: "GAEMA"
+#         url: /posts/category/gaema/
 
-  - title: "com <i>tag</i>"
-    url: /posts/tags/
-    children:
-      - title: "Minimal Mistakes"
-        url: /posts/tags/minimal-mistakes/
+#   - title: "com <i>tag</i>"
+#     url: /posts/tags/
+#     children:
+#       - title: "Minimal Mistakes"
+#         url: /posts/tags/minimal-mistakes/
 
-  - title: "<i>Help</i>"
-    url: /posts/category/minimal-mistakes/
+#   - title: "<i>Help</i>"
+#     url: /posts/category/minimal-mistakes/

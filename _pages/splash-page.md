@@ -1,21 +1,21 @@
 ---
-title: ">>"
+title: "Produtor Rural"
 layout: splash
 permalink: /
 date: 2023-08-22T08:00:00-03:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/cover/photo-1510519138101-570d1dca3d66.avif
+  overlay_image: /assets/images/cover/unsplash-gallery-image-2.jpg
   actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+    - label: "Saiba Mais"
+      url: "/trips/01_cicloturismo/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Explorando a sinergia entre a natureza e o código: Bem-vindo ao meu *blog*, onde como biólogo e entusiasta da computação, compartilho *insights* que unem a gestão ambiental e a programação. Descubra o poder do *python*, SQL e ciência de dados na busca por um mundo mais sustentável."
+excerpt: "Facilitando a vida do produtor rural"
 
 # Centered with `type="center"`
 intro:
-  - excerpt: "Abaixo são apresentados alguns detaques dos meus projetos, porfolios e <i>trips</i>"
+  - excerpt: "Abaixo são apresentados alguns <i>cases</i> de sucesso da nossa empresa"
 
 # dddd
 feature_row:
@@ -91,3 +91,10 @@ feature_row4:
 {% include feature_row id="feature_row4" type="center" %}
 
 {% include feature_row %}
+
+
+<link rel="stylesheet" href="https://cdn.positus.global/production/resources/robbu/whatsapp-button/whatsapp-button.css">
+<a id="robbu-whatsapp-button" target="_blank" href="https://api.whatsapp.com/send?phone=5519981508968&text=Ol%C3%A1,%0ASomos%20a%20ImpleRent,%20servi%C3%A7o%20de%20loca%C3%A7%C3%A3o%20de%20m%C3%A1quinas%20e%20implementos%20agr%C3%ADcolas.%20Em%20breve%20iremos%20atende-lo.">
+  <div class="rwb-tooltip">Fale Conosco</div>
+  <img src="https://cdn.positus.global/production/resources/robbu/whatsapp-button/whatsapp-icon.svg">
+</a>
