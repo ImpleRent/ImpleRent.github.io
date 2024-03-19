@@ -41,3 +41,15 @@ bundle exec jekyll serve --open-url --livereload --incremental
 
 Deu pau no logo, resolvi assim
 https://github.com/mmistakes/minimal-mistakes/discussions/3149
+
+
+
+
+---
+
+---
+
+## Estrutura do Site
+
+- `D:\Projeto ImpleRent\implerent.github.io\_data\navigation.yml` tem infos da barra de navegacao
+- `D:\Projeto ImpleRent\implerent.github.io\_pages\splash-page.md` pagina inicial

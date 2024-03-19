@@ -7,9 +7,9 @@ main:
     description: "Trips"
     url: /trips/
 
-  - title: "Nossos Clientes"
-    description: "Portfolio"
-    url: /portfolio/
+  # - title: "Nossos Clientes"
+  #   description: "Portfolio"
+  #   url: /portfolio/
 
   - title: "Alugue"
     description: "Projetos"

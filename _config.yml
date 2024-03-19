@@ -19,7 +19,7 @@
 # Configurations
 title: ImpleRent
 masthead_title: "ImpleRent"
-subtitle: "<i>Auxiliando a vida do produtor rural</i>" # Opcional
+subtitle: "<i>Solucionando a vida do produtor rural</i>" # Opcional
 # title_separator: "|" # Opcional
 
 name: "Samile Seber"
@@ -29,7 +29,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 repository: "ImpleRent/ImpleRent.github.io"
-logo: "/assets/images/logo/logos/Implerent logo.jpeg"
+logo: "/assets/images/logo/logos/ImpleRent logo.jpeg"
 #url: "https://mm.com.br"
 
 # disabled by default
@@ -82,6 +82,7 @@ analytics:
 # Posts
 date_format: "%d.%m.%Y"
 words_per_minute: 200
+read_time: false
 
 # Conversion
 markdown: kramdown
