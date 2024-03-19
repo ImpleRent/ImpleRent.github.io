@@ -36,3 +36,8 @@ bundle exec jekyll serve
 # Update
 bundle exec jekyll serve --open-url --livereload --incremental
 ```
+
+
+
+Deu pau no logo, resolvi assim
+https://github.com/mmistakes/minimal-mistakes/discussions/3149
