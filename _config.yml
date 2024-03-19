@@ -29,7 +29,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 repository: "ImpleRent/ImpleRent.github.io"
-logo: "/assets/images/logo/logos/WhatsApp Image 2024-03-18 at 21.34.49.jpeg"
+logo: "/assets/images/logo/logos/Logo trator2.jpeg"
 #url: "https://mm.com.br"
 
 # disabled by default
