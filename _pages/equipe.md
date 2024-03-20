@@ -23,6 +23,8 @@ sidebar:
 A ImpleRent é uma AgTech inovadora dedicada a revolucionar a indústria agrícola por meio da tecnologia e da colaboração. Nós nos orgulhamos de oferecer uma plataforma de aluguel de implementos agrícolas que conecta proprietários de equipamentos ociosos a agricultores em busca de soluções práticas e econômicas. Com um compromisso inabalável com a qualidade, segurança e eficiência, trabalhamos incansavelmente para simplificar o processo de aluguel, garantindo a satisfação e o sucesso de nossos clientes.
 
 Na ImpleRent, acreditamos que a agricultura do futuro é construída sobre uma base de parceria, inovação e sustentabilidade. Junte-se a nós enquanto continuamos a impulsionar o crescimento e o progresso na agricultura moderna.
+
+
 <!-- 
 <br>
 
