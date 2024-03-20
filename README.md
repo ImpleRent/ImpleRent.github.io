@@ -3,17 +3,17 @@
 [![Deploy Jekyll](https://github.com/michelmetran/michelmetran.github.io/actions/workflows/publish.yml/badge.svg)](https://github.com/michelmetran/michelmetran.github.io/actions/workflows/publish.yml) | [![Algolia](https://github.com/michelmetran/michelmetran.github.io/actions/workflows/algolia-search.yml/badge.svg)](https://github.com/michelmetran/michelmetran.github.io/actions/workflows/algolia-search.yml)
 
 [GitHub](https://github.com/michelmetran/michelmetran.github.io) |
-[GitPage](https://michelmetran.github.io/)
+[GitPage](https://ImpleRent.github.io/)
 
 
+-----
+
+### WhatsApp
 
 https://robbu.global/gerador-de-botao-whatsapp/
 
 
-
-
-
-
+-----
 
 ### Desenvolvimento Local
 
@@ -29,6 +29,9 @@ bundle add webrick
 
 # Atualiza
 bundle update
+
+# dddd
+gem cleanup
 
 # Roda
 bundle exec jekyll serve

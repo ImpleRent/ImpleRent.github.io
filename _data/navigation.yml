@@ -1,11 +1,11 @@
 main:
   - title: "Quem Somos?"
     description: "Quem Somos"
-    url: /sobre/
+    url: /equipe/
 
-  - title: "O que Fazemos?"
-    description: "Trips"
-    url: /trips/
+  - title: "Clientes"
+    description: "Nossos Clientes"
+    url: /clientes/
 
   # - title: "Nossos Clientes"
   #   description: "Portfolio"
@@ -13,7 +13,7 @@ main:
 
   - title: "Alugue"
     description: "Projetos"
-    url: /projetos/
+    url: "#test-link"
     # TODO: Não funciona!
     # children:
     #   - title: "Child Link 1"
