@@ -3,9 +3,9 @@ main:
     description: "Quem Somos"
     url: /equipe/
 
-  - title: "Clientes"
-    description: "Nossos Clientes"
-    url: /clientes/
+  # - title: "Clientes"
+  #   description: "Nossos Clientes"
+  #   url: "#test-link"
 
   # - title: "Nossos Clientes"
   #   description: "Portfolio"

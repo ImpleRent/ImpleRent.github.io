@@ -12,16 +12,18 @@ author_profile: false
 #   teaser: assets/images/cover/cover_div.png
 
 sidebar:
-  - title: "Techs"
-    image: /assets/images/cover/cover_div.png
-    image_alt: "logo"
-    text: "Scrapping<br>Webmaps"
+  - title: "Nosso Time"
+    image: /assets/images/agro/os-executivos-de-empresas-que-interagem-uns-com-os-outros.jpg
+    #image_alt: "logo"
+    #text: "Scrapping<br>Webmaps"
   # - title: "Responsibilities"
   #   text: "Reuters try PR stupid commenters should isn't a business model"
 ---
 
-A ImpleRent é uma AgTech inovadora dedicada a revolucionar a indústria agrícola por meio da tecnologia e da colaboração. Nós nos orgulhamos de oferecer uma plataforma de aluguel de implementos agrícolas que conecta proprietários de equipamentos ociosos a agricultores em busca de soluções práticas e econômicas. Com um compromisso inabalável com a qualidade, segurança e eficiência, trabalhamos incansavelmente para simplificar o processo de aluguel, garantindo a satisfação e o sucesso de nossos clientes. Na ImpleRent, acreditamos que a agricultura do futuro é construída sobre uma base de parceria, inovação e sustentabilidade. Junte-se a nós enquanto continuamos a impulsionar o crescimento e o progresso na agricultura moderna.
+A ImpleRent é uma AgTech inovadora dedicada a revolucionar a indústria agrícola por meio da tecnologia e da colaboração. Nós nos orgulhamos de oferecer uma plataforma de aluguel de implementos agrícolas que conecta proprietários de equipamentos ociosos a agricultores em busca de soluções práticas e econômicas. Com um compromisso inabalável com a qualidade, segurança e eficiência, trabalhamos incansavelmente para simplificar o processo de aluguel, garantindo a satisfação e o sucesso de nossos clientes.
 
+Na ImpleRent, acreditamos que a agricultura do futuro é construída sobre uma base de parceria, inovação e sustentabilidade. Junte-se a nós enquanto continuamos a impulsionar o crescimento e o progresso na agricultura moderna.
+<!-- 
 <br>
 
 ## Nossa Equipe
@@ -77,4 +79,4 @@ A ImpleRent é uma AgTech inovadora dedicada a revolucionar a indústria agríco
   <a class="thumbnail" href="/daee/">
       <img alt="..." src="/assets/images/divadmin/logo_daee.png">
   </a>
-</figure>
+</figure> -->
